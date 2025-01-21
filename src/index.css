@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* index.css */
+body {
+    font-family: 'Prompt', sans-serif;
+  }
+  
+  /* หรือถ้าคุณต้องการให้มันใช้กับทั้ง html */
+  html {
+    font-family: 'Prompt', sans-serif;
+  }
+  
